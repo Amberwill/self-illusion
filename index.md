@@ -10,7 +10,7 @@ We present the design and results of an experiment investigating the occurrence 
 #### PDF File
 [Download Paper](https://drive.google.com/file/d/10D1RzGn0_QhTs50K5MxkkGDEr7y0-fgM)
 #### Presentation Video
-<iframe width="840" height="472" src="https://www.youtube.com/embed/Ag3LRcqxpo4?t=9068" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="840" height="472" src="https://www.youtube.com/embed/Ag3LRcqxpo4?start=9068" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #### Experiment Video
 <iframe width="840" height="472" src="https://www.youtube.com/embed/ubRA7s3ve6M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
