@@ -1,6 +1,6 @@
-<title> Deep-Modal: Real-Time Impact Sound Synthesis for Arbitrary Shapes </title>
+<title> Self-Illusion: A Study on Cognition of Role-Playing in Immersive Virtual Environments </title>
 ## Abstract
-Model sound synthesis is a physically-based sound synthesis method used to generate audio content in games and virtual worlds. We present a novel learning-based impact sound synthesis algorithm called Deep-Modal. Our approach can handle sound synthesis for common arbitrary objects, especially dynamic generated objects, in real-time. We present a new compact strategy to represent the mode data, corresponding to frequency and amplitude, as fixed-length vectors. This is combined with a new network architecture that can convert shape features of 3D objects into mode data. Our network is based on an encoder-decoder architecture with the contact positions of objects and external forces embedded. Our method can synthesize interactive sounds related to objects of various shapes at any contact position, as well as objects of different materials and sizes. The synthesis process only takes ~0.01s on a GTX 1080 Ti GPU. We show the effectiveness of Deep-Modal through extensive evaluation using different metrics, including recall and precision of prediction, sound spectrogram, and a user study.
+We present the design and results of an experiment investigating the occurrence of self-illusion and its contribution to realistic behavior consistent with a virtual role in virtual environments. Self-illusion is a generalized illusion about one's self in cognition, eliciting a sense of being associated with a role in a virtual world, despite sure knowledge that this role is not the actual self in the real world. We validate and measure self-illusion through an experiment where each participant occupies a non-human perspective and plays a non-human role using this role's behavior patterns. 77 participants were enrolled for the user study according to the prior power analysis. In the mixed-design experiment with different levels of manipulations, we asked the participants to play a cat (a non-human role) within an immersive VE and captured their different kinds of responses, finding that the participants with higher self-illusion can connect themselves to the virtual role more easily. Based on statistical analysis of questionnaires and behavior data, there is some evidence that self-illusion can be considered a novel psychological component of presence because it is dissociated from Sense of Embodiment (SoE), plausibility illusion (Psi), and place illusion (PI). Moreover, self-illusion has the potential to be an effective evaluation metric for user experience in a virtual reality system for certain applications.
 
 <img src="https://dl.acm.org/cms/asset/2cfee9b1-8995-41db-8ecb-14a81bb4c074/3394171.3413572.key.jpg" alt="img" />
 
@@ -8,22 +8,19 @@ Model sound synthesis is a physically-based sound synthesis method used to gener
 ## Supplemental Material
 
 #### PDF File
-[Download Paper](https://dl.acm.org/doi/pdf/10.1145/3394171.3413572)
-#### Presentation slides
-[Download Slides](https://github.com/hellojxt/DeepModal/raw/gh-pages/presentation.pptx)
+[Download Paper](https://drive.google.com/file/d/10D1RzGn0_QhTs50K5MxkkGDEr7y0-fgM)
 #### Presentation Video
-<iframe width="840" height="472" src="https://www.youtube.com/embed/pc2pHj6t2Xk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-#### Sound video clips
-[Download sound videos](https://github.com/hellojxt/DeepModal/raw/gh-pages/sound%20material.zip)
+<iframe width="840" height="472" src="https://www.youtube.com/embed/Ag3LRcqxpo4?t=9068" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#### Experiment Video
+<iframe width="840" height="472" src="https://www.youtube.com/embed/ubRA7s3ve6M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Bibtex
 ```
-@inproceedings{jin2020deep,
-  title={Deep-modal: real-time impact sound synthesis for arbitrary shapes},
-  author={Jin, Xutong and Li, Sheng and Qu, Tianshu and Manocha, Dinesh and Wang, Guoping},
-  booktitle={Proceedings of the 28th ACM International Conference on Multimedia},
-  pages={1171--1179},
-  year={2020}
+@article{li2020self,
+  title={Self-Illusion: A Study on High-Level Cognition of Role-Playing in Immersive Virtual Environments from Non-Human Perspective},
+  author={Li, Sheng and Gu, Xiang and Yi, Kangrui and Yang, Yanlin and Wang, Guoping and Manocha, Dinesh},
+  journal={IEEE Transactions on Visualization and Computer Graphics},
+  year={2020},
+  publisher={IEEE}
 }
 ```
-
