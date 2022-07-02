@@ -17,9 +17,10 @@ We present the design and results of an experiment investigating the occurrence 
 ## Bibtex
 ```
 @article{li2020self,
-  title={Self-Illusion: A Study on High-Level Cognition of Role-Playing in Immersive Virtual Environments from Non-Human Perspective},
+  title={Self-Illusion: A Study on High-Level Cognition of Role-Playing in Immersive Virtual Environments},
   author={Li, Sheng and Gu, Xiang and Yi, Kangrui and Yang, Yanlin and Wang, Guoping and Manocha, Dinesh},
   journal={IEEE Transactions on Visualization and Computer Graphics},
+  doi = {10.1109/TVCG.2020.3044563},
   year={2020},
   publisher={IEEE}
 }
